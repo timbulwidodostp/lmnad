@@ -1,0 +1,5 @@
+D 'lmnad': Ordinary Least Squares (OLS) Non Normality Anderson-Darling Test Use lmnad With STATA 19
+D
+F lmnad.ado
+F lmnad.dlg
+F lmnad.sthlp
